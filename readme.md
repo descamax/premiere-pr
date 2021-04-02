@@ -1,1 +1,2 @@
-fichier readme.md
+#fichier readme.md
+Initialisation du fichier
